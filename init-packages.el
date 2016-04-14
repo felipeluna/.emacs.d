@@ -13,8 +13,7 @@
 
 ; list the packages you want
 (setq package-list
-    '(window-number zenburn-theme drag-stuff evil-commentary evil goto-chg undo-tree evil-escape evil goto-chg undo-tree evil-leader evil goto-chg undo-tree evil-textobj-anyblock evil goto-chg undo-tree goto-chg goto-last-change helm helm-core async popup async helm-core async neotree popup solarized-theme dash undo-tree))
-
+ '(drag-stuff evil-commentary evil goto-chg undo-tree evil-escape evil goto-chg undo-tree evil-leader evil goto-chg undo-tree evil-textobj-anyblock evil goto-chg undo-tree goto-chg goto-last-change helm helm-core async popup async helm-core async neotree popup solarized-theme dash undo-tree window-number window-numbering zenburn-theme))
 
 ; activate all the packages
 (package-initialize)
